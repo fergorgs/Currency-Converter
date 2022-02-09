@@ -1,0 +1,16 @@
+package main;
+
+public enum Currency {
+	REAL,
+	DOLAR,
+	EURO,
+	COROA_TCHECA,
+	FRANCO_SUICO,
+	LIBRA_ESTERLINA,
+	DOLAR_CANADENCE,
+	PESO_ARGENTINO,
+	IENE,
+	YUAN,
+	DOLAR_AUSTRALIANO
+	
+}
